@@ -2,7 +2,8 @@
 
 Repositório para criação dos projetos da Formação Python Suzano
 
------------------------------------------------------------- Sistema Bancario inicial criado em Python ------------------------------------------------
+------------------------ Sistema Bancario inicial criado em Python -------------------------------------
+
 Atualização do Sistema agora com as funções de Criar novo usuário, nova conta e listar contas:
 
 1. Depositar
@@ -13,5 +14,5 @@ Atualização do Sistema agora com as funções de Criar novo usuário, nova con
 6. Criar Nova Conta
 7. Listar Contas
 8. Sair
--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 
